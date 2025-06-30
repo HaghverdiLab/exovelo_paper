@@ -195,3 +195,6 @@ cython_debug/
 
 code/data/hspc_brigitte_with_clusters_and_colors.h5ad
 code/data/*.h5ad
+.old
+.bak
+.log
