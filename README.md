@@ -1,6 +1,6 @@
 # exovelo_paper
 This repository contains the code used for the research described in the
-"Exovelo" paper. All the code including the datasets are in the `code` folder.
+"Exovelo" paper (https://www.biorxiv.org/content/10.1101/2025.07.02.662720v1). All the code including the datasets are in the `code` folder.
 The datasets are compressed in `xz` format.
 
 The required packages are specified in the `requirements.txt` file. The file
